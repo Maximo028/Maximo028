@@ -3,7 +3,7 @@
 </br>
 🎓 I'm currently studying a double degree in Computer Engineering and Business Administration.
 </br>
-🏎️ I am also part of a Formula Student team, ETECH Racing 💚⚡, where I work on software and electronics tasks in the ECUs department.
+🏎️ I am also part of a Formula Student team, ETECH Racing 💚⚡, where I work on Embedded System tasks in the ECUs department.
 ### Programming Lenguages
 ![Static Badge](https://img.shields.io/badge/C-Lenguaje?logoColor=blue&color=blue)
 </br>
