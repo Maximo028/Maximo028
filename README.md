@@ -12,6 +12,8 @@
 
 ### Embbeded Development:
 ![Static Badge](https://img.shields.io/badge/STM32-a?style=flat-square&logoColor=yellow&color=blue)
+![Static Badge](https://img.shields.io/badge/ARDUINO-a?style=flat-square&logoColor=yellow&color=green)
+
 
 ### Communication protocols:
 ![Static Badge](https://img.shields.io/badge/SPI-a?style=flat-square&logoColor=yellow&color=red)
