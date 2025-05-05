@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile 
-Programming Lenguages
-![Static Badge](https://img.shields.io/badge/C-Lenguaje?logoColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/PYTHON-l?style=flat-square&logoColor=yellow&color=yellow)
+###Programming Lenguages
+-![Static Badge](https://img.shields.io/badge/C-Lenguaje?logoColor=blue&color=blue)
+-![Static Badge](https://img.shields.io/badge/PYTHON-l?style=flat-square&logoColor=yellow&color=yellow)
 
 
 <!--
