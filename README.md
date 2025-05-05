@@ -1,5 +1,8 @@
 ## Welcome to my GitHub profile 
+Programming Lenguages
 ![Static Badge](https://img.shields.io/badge/C-Lenguaje?logoColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/PYTHON-l?style=flat-square&logoColor=yellow&color=yellow)
+
 
 <!--
 **Maximo028/Maximo028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
