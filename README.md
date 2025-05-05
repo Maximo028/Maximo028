@@ -4,6 +4,7 @@
 🎓 I'm currently studying a double degree in Computer Engineering and Business Administration.
 </br>
 🏎️ I am also part of a Formula Student team, ETECH Racing 💚⚡, where I work on Embedded System tasks in the ECUs department.
+<https://etechracing.webnode.es/>
 ### Programming Lenguages
 ![Static Badge](https://img.shields.io/badge/C-Lenguaje?logoColor=blue&color=blue)
 </br>
