@@ -16,10 +16,11 @@
 ![Static Badge](https://img.shields.io/badge/ARDUINO-a?style=flat-square&logoColor=yellow&color=green)
 
 
+<!--
 ### Communication protocols:
 ![Static Badge](https://img.shields.io/badge/SPI-a?style=flat-square&logoColor=yellow&color=red)
 ![Static Badge](https://img.shields.io/badge/CAN-a?style=flat-square&logoColor=yellow&color=green)
-
+-->
 ### Others:
 ![Static Badge](https://img.shields.io/badge/SolidWorks-a?style=flat-square&logoColor=yellow&color=red)
 ![Static Badge](https://img.shields.io/badge/Power%20Automate-a?style=flat-square&logoColor=yellow&color=violet)
