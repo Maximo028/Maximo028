@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile 
 👋 Hi, I'm Maximo from Barcelona. 
 </br>
-🎓 I'm currently studying a double bachelor degree in Computer Engineering and Business Administration.
+🎓 I'm currently studying a double bachelor degree in Computer Engineering and BBA.
 </br>
 🏎️ I am also part of a Formula Student team, ETECH Racing 💚⚡, where I work on Embedded Systems tasks in the ECUs department.
 </br>
